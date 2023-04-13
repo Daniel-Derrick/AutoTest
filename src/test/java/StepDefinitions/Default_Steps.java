@@ -53,7 +53,7 @@ public class Default_Steps {
 			  driver = new ChromeDriver();
 		  
 		  }
-		  else if (ConfigProperties.property.getProperty("browser").equalsIgnoreCase("Edge")) {
+		  else if (ConfigProperties.property.getProperty("browser").equalsIgnoreCase("Firefox")) {
 			  
 			  driver = new EdgeDriver();
 			  
