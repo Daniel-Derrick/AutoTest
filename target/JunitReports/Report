@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="68.286" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Title of your feature" name="Title of your scenario" time="68.163">
+<system-out><![CDATA[
+Given User navigate to the URL "https://www.pfizerpro.com"..................passed
+]]></system-out>
+</testcase>
+</testsuite>
